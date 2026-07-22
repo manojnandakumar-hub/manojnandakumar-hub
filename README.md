@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Manoj Nanda Kumar
 
-<!--
-**manojnandakumar-hub/manojnandakumar-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps Engineer | AWS | Kubernetes | Terraform
 
-Here are some ideas to get you started:
+I'm a DevOps Engineer with 4+ years of experience building scalable cloud infrastructure and CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁️ Cloud
+- AWS
+
+### 🐳 Containers
+- Docker
+- Kubernetes
+- Amazon EKS
+
+### ⚙️ Infrastructure as Code
+- Terraform
+
+### 🔄 CI/CD
+- Jenkins
+- GitHub Actions
+
+### 📊 Monitoring
+- Prometheus
+- Grafana
+- CloudWatch
+
+### 💻 Programming
+- Python
+- Bash
+
+### 🐧 Operating Systems
+- Linux
+- Ubuntu
+- Amazon Linux
+
+---
+
+## 🔥 Featured Projects
+
+- Terraform AWS Infrastructure
+- Kubernetes on Amazon EKS
+- Jenkins CI/CD Pipeline
+- GitHub Actions Automation
+- DevSecOps Pipeline
+- Prometheus & Grafana Monitoring
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/prema-manoj-nanda-kumar
+- Fiverr: https://fiverr.com/manoj_nanda_k
+- Email: manojnandakumar.p@email.com
