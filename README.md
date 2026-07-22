@@ -6,8 +6,8 @@ Building scalable cloud infrastructure, automating deployments, and enabling rel
 </p>
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://github.com/manojnandakumar-hub">
+<img src="https://komarev.com/ghpvc/?username=manojnandakumar-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </a>
 </p>
 
